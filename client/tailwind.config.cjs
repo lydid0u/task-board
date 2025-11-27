@@ -20,9 +20,9 @@ module.exports = {
 
         bleu: '#3662E3',
 
-        beige: '#F5E8D5',
-        jaune: '#F5D565',
-        orange: '#E9A23B',
+        orange1: '#F5E8D5',
+        orange2: '#F5D565',
+        orange3: '#E9A23B',
       },
       fontFamily: {
         outfit: ['Outfit', 'sans-serif'],
